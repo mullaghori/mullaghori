@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quotes" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache-buster=${Math.random()}" alt="GitHub Readme Quotes" />
 </div>
 
 # 👋 Hello, I'm Javed Ullah MGI (mullaghori) 
