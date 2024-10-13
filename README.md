@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Javed Ullah MGI (mullaghori) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=mullaghori&label=Profile%20Views&color=brightgreen&style=flat)  
-![Followers](https://img.shields.io/github/followers/mullaghori?label=Followers&style=social)  
-![Stars](https://img.shields.io/github/stars/mullaghori?affiliations=OWNER%2CCOLLABORATOR&style=social)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mullaghori&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" /><br />
+  <img src="https://img.shields.io/github/followers/mullaghori?label=Followers&style=social" alt="Followers" /><br />
+  <img src="https://img.shields.io/github/stars/mullaghori?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars" />
+</div>
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mullaghori)
