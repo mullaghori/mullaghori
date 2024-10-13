@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes" />
+</div>
+
 # 👋 Hello, I'm Javed Ullah MGI (mullaghori) 
 
 <div align="center">
@@ -16,11 +20,13 @@
 ## 🚀 About Me:
 - 👨‍🎓 I'm currently pursuing my **BS in Computer Science** (started August 2021).
 - 💻 Currently **diving deep into Web Development** (HTML, CSS, and JavaScript).
-- - 🐍 ~~I'm also running a blog about Python, [Creative Kode](https://www.blogger.com/blog/posts/7027373473707040583?hl=en).~~ <mark>The Blog is discontinued, because of some issues</mark> You can check out my posts there!
+- 🐍 ~~I'm also running a blog about Python, [Creative Kode](https://www.blogger.com/blog/posts/7027373473707040583?hl=en).~~ <mark>The Blog is discontinued, because of some issues</mark> You can check out my posts there!
 - 📚 I have experience in **Python** and plan to explore more programming languages.
 - 👀 I’m passionate about **learning new languages** and **collaborating on projects**.
 - 💡 I believe in constant growth and contributing to the **developer community**.
 - 👀 I want to learn as much as i can from my fellow coders and developers.
+
+---
 
 ## 🛠️ Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
